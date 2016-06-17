@@ -3,4 +3,4 @@
 
 # 피부 멘토링 서비스 Peace 입니다.
 
-#6 peace web : http://peace-web.herokuapp.com/#/
+# peace web : http://peace-web.herokuapp.com/#/
